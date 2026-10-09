@@ -9,10 +9,15 @@ front_door_ai:
   final_host: equityzen.com
   ownership: own
   owner: equityzen
-  shares_host_with: null
+  shares_host_with:
+  - aiyianimalmedicine
+  - ajaxtherapeutics
   inherited_from: null
+  alias_of: null
   verdict: unmeasured
   score: null
+  band: null
+  band_label: null
   host_score: null
   density: null
   words: null
